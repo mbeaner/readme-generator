@@ -24,11 +24,13 @@
   
   This where you will explain how use the project.
 
-  This project is licensed under BSD3.
+  ## License
+    
+This project is licensed under BSD3.
 
   ## Contributing <a name='contributing'></a>
   
-  This is where you will explain how someone can contribute to the project
+  This is where you will explain how someone can contribute to the project.
 
   ## Tests <a name='tests'></a>
   
